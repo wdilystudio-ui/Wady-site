@@ -1,2 +1,0 @@
-# Wady-site
-meu site
